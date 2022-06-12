@@ -641,7 +641,6 @@ body {
   margin-top: 60px;
   color: #221E1F;
   background-image: url("../img/footer_sm.png");
-  outline: 1px solid blueviolet;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
@@ -695,7 +694,6 @@ body {
   .header {
     position: relative;
     background-image: url("../img/bg_home.png");
-    outline: 1px solid blueviolet;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right top;
@@ -706,7 +704,6 @@ body {
   .header .title {
     margin-top: 0;
     background-image: url("../img/home.png");
-    outline: 1px solid blueviolet;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right -0px;
@@ -747,9 +744,7 @@ body {
   }
   .talk {
     background-image: url("../img/home_footer.png");
-    outline: 1px solid blueviolet;
     background-repeat: no-repeat;
-    outline: 1px solid red;
     background-size: 100%;
   }
 }
@@ -769,7 +764,6 @@ body {
     width: 200px;
     height: 200px;
     background: url("../img/ball01.png") no-repeat;
-    outline: 1px solid blueviolet;
     background-size: contain;
     background-position: -100px 0;
     top: -100px;
@@ -799,7 +793,6 @@ body {
   .talk {
     background-image: url("../home_footer.png");
     background-repeat: no-repeat;
-    outline: 1px solid blueviolet;
     background-size: contain;
   }
 }

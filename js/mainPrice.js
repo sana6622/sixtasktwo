@@ -27,11 +27,11 @@ $(document).ready(function () {
     $(this).parents().siblings('.areaAns').toggle();
     let a = $(this).attr('src')
     console.log(a)
-    if (a === '/img/icon_plus.png') {
-      $(this).attr('src', 'img/icon_minus.png')
+    if (a === 'img/icon_plus.png') {
+      $(this).attr('src', '../img/icon_minus.png');
       $(this).siblings().addClass('changeColor')
     } else {
-      $(this).attr('src', 'img/icon_plus.png')
+      $(this).attr('src', '../img/icon_plus.png');
       $('.areaQus p').removeClass('changeColor')
     }
   })
