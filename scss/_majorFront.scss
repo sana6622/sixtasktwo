@@ -35,6 +35,7 @@ body {
     width: 126px;
     height: 126px;
     background-image: url('img/ball01.png');
+    outline: 1px solid red;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: -77px 0px;
@@ -448,6 +449,7 @@ body {
   margin-top: 60px;
   color: $mainblack;
   background-image: url('footer_sm.png');
+  outline: 1px solid red;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
