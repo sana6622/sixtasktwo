@@ -185,8 +185,8 @@ body {
 .header .ball01-1 {
   width: 126px;
   height: 126px;
-  background-image: url("img/ball01.png");
-  outline: 1px solid red;
+  background-image: url("/img/ball01.png");
+  outline: 1px solid blue;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: -77px 0px;
@@ -202,7 +202,8 @@ body {
 .header .img-sm {
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url("/img/banner_sm.png");
+  background-image: url("/img/bg_home_sm.png");
+  outline: blue;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -641,8 +642,8 @@ body {
 .talk {
   margin-top: 60px;
   color: #221E1F;
-  background-image: url("footer_sm.png");
-  outline: 1px solid red;
+  background-image: url("/img/footer_sm.png");
+  outline: 1px solid blue;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
