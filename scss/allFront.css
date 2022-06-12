@@ -185,7 +185,8 @@ body {
 .header .ball01-1 {
   width: 126px;
   height: 126px;
-  background-image: url("/img/ball01.png");
+  background-image: url("../img/ball01.png");
+  outline: 1px solid blueviolet;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: -77px 0px;
@@ -201,7 +202,8 @@ body {
 .header .img-sm {
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url("/img/bg_home_sm.png");
+  background-image: url("../img/bg_home_sm.png");
+  outline: 1px solid blueviolet;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -694,7 +696,6 @@ body {
   .header {
     position: relative;
     background-image: url("/img/bg_home.png");
-    outline: 1px solid red;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right top;
@@ -705,7 +706,6 @@ body {
   .header .title {
     margin-top: 0;
     background-image: url("/img/home.png");
-    outline: 1px solid red;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right -0px;
@@ -745,7 +745,8 @@ body {
     max-width: 260px;
   }
   .talk {
-    background: url("/img/home_footer.png") no-repeat;
+    background-image: url("/img/home_footer.png");
+    background-repeat: no-repeat;
     outline: 1px solid red;
     background-size: 100%;
   }
