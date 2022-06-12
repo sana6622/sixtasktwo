@@ -34,7 +34,7 @@ body {
   .ball01-1 {
     width: 126px;
     height: 126px;
-    background-color: red;
+    background-image: url('img/ball01.png');
     /*background-image: url("http://www.w3.org/2000/svg width='361' height='361' viewBox='0 0 361 361 fill='#56c4c5' ");*/
     background-repeat: no-repeat;
     background-size: contain;
@@ -51,7 +51,8 @@ body {
   .img-sm {
     margin-left: 20px;
     margin-right: 20px;
-    background-color: blue;
+    background-image: url('/img/banner_sm.png');
+
     /*background-image: url('https: //raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/bg_home_sm.svg');*/
     background-size: contain;
     background-repeat: no-repeat;
