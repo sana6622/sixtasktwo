@@ -186,7 +186,6 @@ body {
   width: 126px;
   height: 126px;
   background-image: url("/img/ball01.png");
-  outline: 1px solid blue;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: -77px 0px;
@@ -203,7 +202,6 @@ body {
   margin-left: 20px;
   margin-right: 20px;
   background-image: url("/img/bg_home_sm.png");
-  outline: blue;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -643,7 +641,6 @@ body {
   margin-top: 60px;
   color: #221E1F;
   background-image: url("/img/footer_sm.png");
-  outline: 1px solid blue;
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
@@ -696,7 +693,8 @@ body {
 @media only screen and (min-width: 576px) {
   .header {
     position: relative;
-    background-image: url("bg_home.png");
+    background-image: url("/img/bg_home.png");
+    outline: 1px solid red;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right top;
@@ -706,7 +704,8 @@ body {
   }
   .header .title {
     margin-top: 0;
-    background-image: url("home.png");
+    background-image: url("/img/home.png");
+    outline: 1px solid red;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right -0px;
@@ -746,7 +745,8 @@ body {
     max-width: 260px;
   }
   .talk {
-    background: url("home_footer.png") no-repeat;
+    background: url("/img/home_footer.png") no-repeat;
+    outline: 1px solid red;
     background-size: 100%;
   }
 }
