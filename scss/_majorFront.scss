@@ -35,7 +35,6 @@ body {
     width: 126px;
     height: 126px;
     background-image: url('img/ball01.png');
-    /*background-image: url("http://www.w3.org/2000/svg width='361' height='361' viewBox='0 0 361 361 fill='#56c4c5' ");*/
     background-repeat: no-repeat;
     background-size: contain;
     background-position: -77px 0px;
@@ -52,8 +51,6 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     background-image: url('/img/banner_sm.png');
-
-    /*background-image: url('https: //raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/bg_home_sm.svg');*/
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -450,7 +447,7 @@ body {
 .talk {
   margin-top: 60px;
   color: $mainblack;
-  background-image: url('/img/footer_sm.png');
+  background-image: url('footer_sm.png');
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
@@ -497,7 +494,7 @@ body {
 
   .header {
     position: relative;
-    background-image: url("img/bg_home.png");
+    background-image: url("bg_home.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right top;
@@ -509,7 +506,7 @@ body {
 
     .title {
       margin-top: 0;
-      background-image: url("img/home.png");
+      background-image: url("home.png");
       background-repeat: no-repeat;
       background-size: contain;
       background-position: right -0px;
@@ -560,7 +557,7 @@ body {
   }
 
   .talk {
-    background: url('img/home_footer.png') no-repeat;
+    background: url('home_footer.png') no-repeat;
     background-size: 100%;
   }
 }
@@ -583,7 +580,7 @@ body {
       position: absolute;
       width: 200px;
       height: 200px;
-      background: url('img/ball01.png') no-repeat;
+      background: url('ball01.png') no-repeat;
       background-size: contain;
       background-position: -100px 0;
       top: -100px;
@@ -606,7 +603,7 @@ body {
   }
 
   .talk {
-    background: url('img/home_footer.png') no-repeat;
+    background: url('home_footer.png') no-repeat;
     background-size: contain;
   }
 }
