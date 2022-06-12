@@ -185,7 +185,7 @@ body {
 .header .ball01-1 {
   width: 126px;
   height: 126px;
-  background: url("img/ball01.png") no-repeat;
+  background: url("https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/ball01.svg") no-repeat;
   background-size: contain;
   background-position: -77px 0px;
   position: absolute;
@@ -200,7 +200,7 @@ body {
 .header .img-sm {
   margin-left: 20px;
   margin-right: 20px;
-  background-image: url("img/bg_home_sm.png");
+  background-image: url("https: //raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/chatTalker_images/bg_home_sm.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
