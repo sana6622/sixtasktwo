@@ -185,7 +185,7 @@ body {
 .header .ball01-1 {
   width: 126px;
   height: 126px;
-  background-image: url("img/ball01.png");
+  background-image: url("http://www.w3.org/2000/svg width='361' height='361' viewBox='0 0 361 361 fill='#56c4c5' ");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: -77px 0px;
@@ -640,7 +640,7 @@ body {
 .talk {
   margin-top: 60px;
   color: #221E1F;
-  background-image: url("img/footer_sm.png");
+  background-image: url("/img/footer_sm.png");
   background-repeat: no-repeat;
   background-size: contain;
   padding-top: 293px;
